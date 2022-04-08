@@ -9,4 +9,4 @@ For this challenge I wrote the HTML and CSS for a sample professional portfolio 
 * Numbers not real for privacy concerns. 
 * Everything will be kept up to date as this will be used for work.
 * I will be updating the website to things ive learned in class to make things look better and show further advancement in work.
-**Link to deployed website: file:///Users/alainarosendahl/code/challenges/professional-portfolio/index.html
+**Link to deployed website:https://AlainaRosendahl.github.io/professional-portfolio/
